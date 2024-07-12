@@ -44,9 +44,9 @@ When I'm not coding, you can find me exploring new hiking trails or experimentin
 
 ### 📫 How to Reach Me
 
-- 📧 **Email**: [jitdeb@example.com](mailto:jitdeb@example.com)
-- 💼 **LinkedIn**: [Jit Deb](https://www.linkedin.com/in/jitdeb)
-- 🐦 **Twitter**: [@JITDEB](https://twitter.com/JITDEB)
+- 📧 **Email**: [jitdeb.cse@gmail.com](mailto:jitdeb.cse@gmail.com)
+- 💼 **LinkedIn**: [Jit Deb](https://www.linkedin.com/in/jit-deb-cse)
+
 
 ## ⚡ Inspirational Quote
 
